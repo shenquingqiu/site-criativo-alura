@@ -6,8 +6,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #682206;
+    color: rgb(240, 240, 240);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 15%;
 }
 
 .cabecalho-lista-item{
@@ -24,25 +24,26 @@ body {
     font-size: 16px;
 }
 
-.lendas-imagem{
-    width: 25%;
+.Lendas1-imagem{
+    width: 15%;
 }
 
-.pesquisa{
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color:white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-}
 
-.pesquisa-div-conteudo{
+.Lendas1-div-conteudo{
     width: 35%;
 }
 
 
-.lenda-titulo{
+.Lendas1-titulo{
+    padding: 24px 0;
+}
+
+.Lendas1{
+    background-image: linear-gradient(#9e1402,#b91212);
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 24px 0;
 }
 
